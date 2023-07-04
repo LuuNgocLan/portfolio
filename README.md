@@ -1,5 +1,4 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
+# [My Portfolio](https://luungoclan.github.io/portfolio/)
 ### Portfolio Responsive Complete
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
